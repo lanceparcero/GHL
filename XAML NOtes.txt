@@ -1,0 +1,12 @@
+App.xaml
+StartUpURI-Pagename
+StartUp-Method
+
+Get content of a control
+Content="{Binding Text, ElementName=textBox}"
+
+UpdateSourceTrigger
+PropertyChanged-Everytime changes
+LostFocus=Always the same and updates after leaving control
+Explicit=Copy exact from source
+
