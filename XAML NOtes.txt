@@ -10,3 +10,5 @@ PropertyChanged-Everytime changes
 LostFocus=Always the same and updates after leaving control
 Explicit=Copy exact from source
 
+
+Boom Chakalaka
